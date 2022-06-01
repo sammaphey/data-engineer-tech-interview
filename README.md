@@ -6,6 +6,8 @@ Essentially, we want to mimic (at small scale), a data science project that is s
 
 Your task is to ingest this CSV file and create a couple of interactive plots, and move the data into a "database".
 
+The resulting code, plots, and "database" files should be uploaded to your github account and linked in the response email.
+
 You may start with either task but the outline below should describe what we are looking for in each part.
 
 ## Creating Plots
