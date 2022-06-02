@@ -19,7 +19,9 @@ You may start with either task but the outline below should describe what we are
 
 ## Writing to a database
 
-The "database" in our example will simply be a [directory](./directory) that will contain JSON files. You are to take each row in the csv document and create them as separate documents where the file name is the name of the team.
+The "database" in our example will simply be a [directory](./database) that will contain JSON files. You are to take each row in the csv document and create them as separate documents where the file name is the name of the team.
+
+We expect there to be around 125 JSON files in the [database directory](./database) and uploaded to the git repo.
 
 ## Final Thoughts
 
