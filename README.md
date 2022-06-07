@@ -12,10 +12,11 @@ You may start with either task but the outline below should describe what we are
 
 ## Creating Plots
 
-- Create a plot that represents the total sadium capacity (as a bar chart) of each team. An example can be found [here](./plots/stadium-capacity.pdf).
+- Create a plot that represents the total stadium capacity (as a bar chart) of each team. An example can be found [here](./plots/stadium-capacity.pdf).
   - Now make this plot interactive, such that you can filter the data being plotted based on League (MLB, NFL, etc.), City (Los Angeles, New York, etc.), or any other field you find relevant.
-- Plot the cumulative sum of Stadium Capacity over time, it should look somthing like [this plot](./plots/total-capacity.pdf).
-- Build a plot that shows the number of chamionships per field (State, City, etc.). Allow the user to define which field they want to plot against.
+- Plot the cumulative sum of Stadium Capacity over time, it should look something like [this plot](./plots/total-capacity.pdf).
+  - As an example the stadium capacity for the New York Mets begins in the year 1962 (the year it was founded)
+- Build a plot that shows the number of championships per field (State, City, etc.). Allow the user to define which field they want to plot against.
 
 ## Writing to a database
 
